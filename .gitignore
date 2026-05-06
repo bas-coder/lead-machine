@@ -1,0 +1,7 @@
+.env
+master_leads_list.csv
+scraped_urls.txt
+exports/
+logs/
+data/
+__pycache__/
