@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for lead-scraper-engine on 2026-05-05T08:03:32Z
+# fly.toml app configuration file generated for lead-long-fern-7544 on 2026-05-09T03:50:23Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'lead-scraper-engine'
+app = 'lead-long-fern-7544'
 primary_region = 'ams'
 
 [build]
